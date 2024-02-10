@@ -14,7 +14,7 @@ jobs:
               with:
                     path: 'IPFS-command.png'
                     pin-name: 'IPFS-command.png'
-                    pinata-api-key: ${{ secrets.PINATA_API_KEY }}
-                    pinata-secret-api-key: ${{ secrets.PINATA_SECRET_API_KEY }}
+                    pinata-api-key: "50c78ccc5c4406224de1"
+                    pinata-secret-api-key: "9d9e676232a42b60d643e82cad9e636ae3865fb1be826706049d419c6606bfed"
                     remove-old: false
                     verbose: false
